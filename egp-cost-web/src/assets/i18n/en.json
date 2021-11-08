@@ -1,0 +1,171 @@
+{
+    "COMMON": {
+      "NEXT_BTN": "ถัดไป",
+      "CLEAR_BTN": "ล้างข้อมูล",
+      "BACK_BTN": "ย้อนกลับ",
+      "SAVE_BTN": "บันทึก",
+      "OK_BTN": "ตกลง",
+      "CANCEL_BTN": "ยกเลิก",
+      "CANCEL_LIST_BTN": "ยกเลิกรายการ",
+      "CONFIRM_BTN": "ยืนยัน",
+      "CLOSE_THIS_PAGE_BTN": "ปิดหน้าจอนี้",
+      "BACK_TO_MAIN_PAGE": "กลับสู่หน้าหลัก",
+      "INSTRUCTION": "คำแนะนำ",
+      "TITLE_CONFIRM_PLZ": "โปรดยืนยัน",
+      "DOWNLOAD_BTN": "ดาวน์โหลด",
+      "FILE_DOWNLOAD_BTN": "ดาวน์โหลดใบแนบ",
+      "PRINT_BTN": "พิมพ์แบบเพื่อตรวจสอบ",
+      "YES_BTN": "ใช่",
+      "NO_BTN": "ไม่ใช่",
+      "PASSPORT_TITLE": "เลขที่หนังสือเดินทาง",
+      "PASSPORT_COUNTRY": "ประเทศที่ออกหนังสือเดินทาง",
+      "STATUS": "สถานะ",
+      "REMARK": "หมายเหตุ",
+      "DATE": "วันที่",
+      "FILE_NAME": "ชื่อไฟล์",
+      "EDIT": "แก้ไข",
+      "ADD": "เพิ่ม",
+      "REFRESH": "ปรับปรุง",
+      "ALREADY": "เรียบร้อยแล้ว",
+      "SEARCH": "ค้นหา",
+      "UPLOAD":"Upload File",
+      "CHECK_RESULT": "Check Result",
+      "DRAFT":"Draft",
+      "FILING":"Filing",
+      "FILING_TA":"เลือกผู้เสียภาษี",
+      "SAVE_DRAFT":"บันทึกร่าง",
+      "SAVE_FILING_BTN":"ตกลงยื่นแบบ",
+      "CONFIRM_FILING_BTN":"ยืนยันการยื่นแบบ",
+      "EXIT_BTN":"ออกจากหน้าจอ",
+      "OPERATOR_INFO":"ข้อมูลผู้ประกอบการ.",
+      "OPERATOR_NAME":"ชื่อผู้ประกอบกิจการ",
+      "COMPANY_NAME":"ชื่อสถานประกอบการ.",
+      "TAX_PAYER_NUMBER": "เลขประจำตัวผู้เสียภาษีอากร",
+      "BRANCH_NO":"สาขาที่",
+      "DETAIL_FILING":"รายละเอียดการยื่นแบบ",
+      "TAX_YEAR_MONTH":"เดือน/ปีภาษี",
+      "TAX_FILING_CARD_DESC":"สำหรับสำนักงานบัญชีตัวแทน",
+      "VERSION": "Version",
+      "LOGOUT_BTN": "ออกจากระบบ",
+      "SYSTEM_MESSAGE": "ข้อความจากระบบ"
+    },
+    "PAGE": {
+        "TITLE": {
+            "LOGIN": "Log in",
+            "HOME": "Home"
+        }
+    },
+    "MENU": {
+        "HOME": "Home",
+        "TAX_ONLINE": "Tax Online",
+        "PAYMENT": "Payment",
+        "CHECK_STATUS": "Check Status"
+    },
+    "MIGRATE_USER": {
+        "TITLE": "Migrate User"
+    },
+    "LOGIN": {
+        "WELCOME_TO": "Welcome to",
+        "E_FILING": "Online tax filing and payment system",
+        "REGISTER": "Register",
+        "CHECK_REGISTER": "Check register result",
+        "SEND_REGISTER_DOCUMENT": "Send register document",
+        "FORGOT_PASSWORD": "Forgot password",
+        "MANAGE_AUTHEN": "Manage Authen",
+        "LABEL_OTHER_LOGIN": "LOGIN WITH",
+        "FORM": {
+            "CONTENT": {
+                "LOGIN": "Log in",
+                "USERNAME": "Tax Identification No/Email",
+                "PASSWORD": "Password"
+            },
+            "VALIDATE": {
+                "USERNAME": "Please provide a tax identification no.",
+                "PASSWORD": "Please provide a password"
+            }
+        }
+    },
+    "CHECK_REGISTER": {
+        "TITLE": "Check the Registration Results.",
+        "CHECK_REQUEST": "Check the Registration Results (ภ.อ.01/ภ.อ.03)",
+        "FORM": {
+            "CONTENT": {
+                "INPUTREFNO": "Input Ref Number",
+                "CHECK_RESULT": "Check Result"
+            },
+            "VALIDATE": {}
+        },
+        "TABLE": {
+            "COLUMN1": "Referent No. ",
+            "COLUMN2": "TAX Number",
+            "COLUMN3": "Email",
+            "COLUMN4": "Request Date",
+            "COLUMN5": "Expire Date",
+            "COLUMN6": "Request Type",
+            "COLUMN7": "Request Status"
+        },
+        "BUTTON1": "Send To Email",
+        "BUTTON1.1": "Send Email To Result",
+        "BUTTON2": "Upload Document Verifly",
+        "COMMENT": "COMMENT"
+    },
+    "SERVICE_PROVIDER": {
+      "TITLE": "ขอเชื่อมต่อ Open API",
+      "TITLE_TEST_SYSTEM": "การทดสอบระบบ",
+      "TITLE_TEST_SYSTEM_RESULT": "ผลการทดสอบระบบ",
+      "TITLE_DOC_FILE_FOR_SERVICE_PROVIDER_REQ": "ไฟล์เอกสารเพื่อยื่นคำขอเป็นผู้ใช้บริการ ขอเชื่อมต่อ Open API",
+      "TITLE_IP_CONNECTION": "การเชื่อมต่อการรับส่งข้อมูล",
+      "OPTION_LINK": {
+          "LINK_SUBMIT_OTHER_DOC": "นำส่งเอกสารอื่นๆ เพิ่มเติม",
+          "LINK_SP_HISTORY": "แสดงรายการยื่นคำขอย้อนหลัง",
+          "LINK_SP_APPLY": "ต้องการยืนคำขอเป็นผู้ใช้บริการ ขอเชื่อมต่อ Open API",
+          "LINK_SP_REQ_NEW_KEY": "เปลี่ยนรหัสของผู้ใช้บริการ ขอเชื่อมต่อ Open API"
+      },
+      "CONFIRM_DIALOG_REQ_NEW_KEY": "ต้องการขอคีย์การใช้งานระบบใหม่",
+      "TITLE_TAX_PAYER_NO": "หมายเลขผู้เสียภาษี",
+      "TITLE_REQ_TYPE": "ประเภทคำขอ",
+      "REQ_TYPE": "ประเภทคำขอ",
+      "TITLE_TAX_PAD": "แบบภาษี",
+      "REF_NO_FILE_SEND": "เลขอ้างอิงการนำส่งไฟล์",
+      "REF_NO_DOC": "หมายเลขเอกสารอ้างอิง",
+      "TITLE_TYPE_DOCUMENT": "ประเภทเอกสาร",
+      "CLICK_FOR_CANCELING_SERVICE_PROVIDER_REQ": "คลิกยกเลิกการยื่นคำขอเป็นผู้ใช้บริการ ขอเชื่อมต่อ Open API",
+      "SHOW_LIST_REG_HISTORY": "แสดงรายการยื่นคำขอย้อนหลัง",
+      "UPLOAD_DOC_NEW_REQ_1": "กรมสรรพากรได้จัดส่งคีย์สำหรับการทดสอบ โดยจัดส่งทางอีเมล์ที่ท่านได้ลงทะเบียนไว้",
+      "UPLOAD_DOC_NEW_REQ_2": "กรุณา ยืนยันการเริ่มดำเนินการ ที่หน้าจอนี้ เมื่อการทดสอบของท่านผ่านตามเกณท์ที่กรมสรรพากรกำหนด",
+      "MSG_CONFIRM_START_PROCESS": "ยืนยันเริ่มดำเนินการ",
+      "TITLE_SERVICE_PROVIDER_STATUS": "สถานะการเป็นผู้ใช้บริการ ขอเชื่อมต่อ Open API",
+      "SEND_DOC_REQ_POR01_2": "นำส่งเอกสารคำขอ ภ.อ.01.2",
+      "CONFIRM_DIALOG_NEW_KEY_REQ": "ต้องการขอคีย์การใช้งานระบบใหม่",
+      "BACK_TO_OPEN_API_MAIN_PAGE": "กลับสู่หน้าขอเชื่อมต่อ Open API",
+      "OPEN_API_DETAILS_PAGE": "ข้อมูลเกี่ยวกับ Open API"
+    },
+    "MANAGE_AUTHEN": {
+        "TITLE": "Manage Authen",
+        "TITLE-LIST": "List Authen"
+    },
+    "RESET_PASSWORD": {
+        "NO": {
+            "AGREE": "New password cannot be same as current password, please check"
+        },
+        "YES": {
+            "AGREE": "xxx"
+        }
+    },
+    "PT40": {
+        "HELLO": "hello {{p1}}",
+        "CODE":"ภ.ธ.40",
+        "HEADER":{
+            "H1":"แบบแสดงรายการภาษีธุรกิจเฉพาะ"
+        }
+    },
+    "PND51": {
+        "CODE":"ภ.ง.ด. 51",
+        "HEADER":{
+            "H1":"แบบแสดงรายการภาษีเงินได้บริษัทหรือห้างหุ้นส่วนนิติบุคคล"
+        }
+    },
+    "MSG": {
+        "I0001": "ท่านต้องการบันทึกข้อมูลใช่หรือไม่"
+    }
+}
